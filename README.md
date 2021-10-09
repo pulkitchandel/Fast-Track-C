@@ -1,3 +1,4 @@
+By Pulkit Chandel <br> 211057008 <br> MSIS (AIML)
 # Fast-Track-C
 Basic C programs to clear the concepts.
 ### Day 1
