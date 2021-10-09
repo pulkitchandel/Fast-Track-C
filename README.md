@@ -11,12 +11,12 @@ Basic C programs to clear the concepts.
 7. [WAP to find power of 2^N using left shift operator.](https://github.com/pulkitchandel/Fast-Track-C/blob/main/Day%201/P7.c)<br>
 
 ### Day 2
-1. Enter a 5 digit number and find the sum of its digits. For E.g. if int number = 12345; 
-then sum = 15; <br>
-2. Write a program to reverse the number. For E.g. If int number = 12345; then the 
-output reverse = 54321;<br>
-3. Write a program to count the occurrences of digit in a number.<br>
-4. WAP to check if a given number is a palindrome. For e.g. 12321, 56788765;<br>
+1. [Enter a 5 digit number and find the sum of its digits. For E.g. if int number = 12345; 
+then sum = 15;](https://github.com/pulkitchandel/Fast-Track-C/blob/main/Day%202/P1.c) <br>
+2. [Write a program to reverse the number. For E.g. If int number = 12345; then the 
+output reverse = 54321;](https://github.com/pulkitchandel/Fast-Track-C/blob/main/Day%202/P2.c)<br>
+3. [Write a program to count the occurrences of digit in a number.](https://github.com/pulkitchandel/Fast-Track-C/blob/main/Day%202/P2.c)<br>
+4. [WAP to check if a given number is a palindrome. For e.g. 12321, 56788765;](https://github.com/pulkitchandel/Fast-Track-C/blob/main/Day%202/P4.c)<br>
 5. Generate the first 'N' prime numbers. For Eg. If N=5 then 2,3,5,7,11<br>
 6. Write a C program to display and find the sum of the series 1+11+111+....111 up to n.
 For eg. if n=4, the series is: 1+11+111+1111. Take the value of 'n' as input from the 
